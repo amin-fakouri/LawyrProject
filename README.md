@@ -125,4 +125,4 @@ This project is proprietary software.
 
 The source code is not licensed for unrestricted commercial use, redistribution, resale, hosting, or creation of derivative commercial products without permission from the copyright holder.
 
-© 2026 Amin Fakouri. All rights reserved.
+© 2026 Mohammad Amin Fakouri. All rights reserved.
