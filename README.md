@@ -8,6 +8,24 @@ LawyrProject is a web application designed to support legal and administrative w
 
 The platform provides tools for managing users, handling public complaints, managing administrative processes, and organizing internal workflows.
 
+## Screenshots
+
+### Dashboard
+
+<img width="1918" height="907" alt="LawyrProject Dashboard" src="https://github.com/user-attachments/assets/1e5b90ea-3e56-4226-bb0d-c24e84398c49" />
+
+### Management Interface
+
+<img width="1918" height="903" alt="LawyrProject Management Interface" src="https://github.com/user-attachments/assets/eeec5a61-1006-450b-8664-d71921434b55" />
+
+### Complaint Management
+
+<img width="1918" height="901" alt="LawyrProject Complaint Management" src="https://github.com/user-attachments/assets/93ff1e42-b30c-4478-bbd6-654e50b5d825" />
+
+### User Interface
+
+<img width="1918" height="900" alt="LawyrProject User Interface" src="https://github.com/user-attachments/assets/eab86874-aee6-496a-ac02-606f9000c783" />
+
 ## Features
 
 * 🔐 Authentication and user management
